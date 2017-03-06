@@ -13,3 +13,8 @@ Covnet Architecture: http://cs231n.github.io/convolutional-networks/#architectur
 
 Regularization: http://cs231n.github.io/neural-networks-2/#reg
 
+
+Standard Normalization Formula: https://wikimedia.org/api/rest_v1/media/math/render/svg/ad23419556331501d554ed0685b13a526d99d446
+
+I_n = (((I - min) * (newMax - newMin)) / (max - min)) + newMin, where newMax and newMin are the desired range of values you want to fit in, 
+let's say I'd like my new values to be within range(0, 1) then newMax=1 and newMin=0.
