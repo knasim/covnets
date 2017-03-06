@@ -1,0 +1,13 @@
+Weights Initialization: cs231n.github.io/neural-networks-2/#init
+
+Normalizing and Image: http://stackoverflow.com/questions/29853497/normalization-of-an-image
+
+Notes on Activation Functions: http://stats.stackexchange.com/questions/115258/comprehensive-list-of-activation-functions-in-neural-networks-with-pros-cons
+http://cs231n.github.io/neural-networks-1/#actfun
+
+Tensorflow Library for Flatten: https://www.tensorflow.org/api_docs/python/tf/contrib/layers/flatten
+
+Covnet Architecture: http://cs231n.github.io/convolutional-networks/#architectures
+
+Regularization: http://cs231n.github.io/neural-networks-2/#reg
+
